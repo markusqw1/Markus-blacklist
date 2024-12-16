@@ -1,0 +1,6 @@
+# Markus's Blocklist
+# A curated list of domains to block for Pi-hole, AdGuard Home, and other DNS-based tools.
+# Updated: 2024-12-17
+
+# Blocked Domains
+optus.com.au
