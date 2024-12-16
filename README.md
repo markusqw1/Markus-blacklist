@@ -13,7 +13,7 @@ This blocklist is compatible with Pi-hole, AdGuard Home, and similar DNS-based t
 
 ## Request to Be Unblacklisted
 
-If your business has been listed in error or you have resolved the issue that caused the listing, you can request to be removed from Markus's Blocklist.  
+If your business has been listed in error or have questions, you can request to be removed from Markus's Blocklist.  
 
 Please email us at:  
 [blacklist@markusgroup.au](mailto:blacklist@markusgroup.au)
