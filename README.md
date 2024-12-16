@@ -23,4 +23,4 @@ Please email us at:
 ## Usage
 
 To use this blocklist in your Pi-hole or AdGuard Home setup, add the following URL to your blocklist sources:
-
+https://raw.githubusercontent.com/markusqw1/Markus-blacklist/refs/heads/main/Blacklist.txt
